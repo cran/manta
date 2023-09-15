@@ -1,0 +1,32 @@
+### TODO list
+### Updated 06/11/2020
+#
+# ===============
+# High priority
+# ===============
+# ss ~ 0 leads to error 
+#
+# 
+# ===============
+# Low priority
+# ===============
+# 1. Additional checks using testthat (comparison with car::Anova, weird situations, lmm)
+# 2. VIF, collinearity (read Zappala et al.)
+# 3. CompQuadForm F vs SS (just double check)
+# 4. Proper function call using ::
+# 5. Update docs (e.g. pv.ss)
+# 6. Add help for class MLM
+# ===============
+# Very low priority
+# ===============
+# 1. Better "contrasts" argument and definition
+# 2. Update example data
+# 3. CompQuadForm precision limit
+# 4. Report R2/r2? (other metrics?)
+# ===============
+# Notes
+# ===============
+# 1. Review lm, mvlm, mdmr, adonis, MDS
+# 2. Profile: SST
+
+
