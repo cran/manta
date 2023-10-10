@@ -1,10 +1,10 @@
-c81cbdd32b5b30a8a70a851b2b41d3c2 *DESCRIPTION
+e4c733f52269f11df3fb1ec228345bbc *DESCRIPTION
 7b0423fec6f49ca8afcd44a14e5a0b54 *NAMESPACE
 b56520a42b6920afd6010e592f7c18ca *R/datasets.R
 6d655554181561f5b458ce5559d7f889 *R/manta.R
 5a3d5ac57b41adce9301d3024b0d460a *R/manta.ss.R
 e9145f35730724ca52c0daf8f3b824af *R/pv.R
-37b88c504b6f5364539c6cee96c67e79 *README.md
+3b924bdf0c3b7264466ddcdf7f323d8b *README.md
 185178953db88eda295fb9a878929823 *TODO
 31beac014e85f51ff4c64977f7e6c879 *data/biomarkers.rda
 9f6bcb81800fe566299ee48635020778 *data/patients.rda
@@ -22,4 +22,4 @@ f7f2b05587ec84eeac60ae2e0c7230ec *src/manta_init.c
 c0848583f5acd7fd4b9106da4029771e *tests/testthat/example_ref.rds
 7924152188dba556ba51f522ac17d3a2 *tests/testthat/example_ref_I.rds
 c48e939dc6bf08f971541ef3e3881228 *tests/testthat/example_ref_III.rds
-44d9299b2726775699f78c0455002750 *tests/testthat/test-general.R
+15684a762442d40a8d4a083ec9adc517 *tests/testthat/test-general.R
